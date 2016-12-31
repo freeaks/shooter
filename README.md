@@ -1,5 +1,5 @@
 # shooter
-very basic unfinished vertical shooter..
+basic unfinished vertical shooter for android
 
 feature:
 - colisions
