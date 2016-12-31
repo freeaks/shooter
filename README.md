@@ -7,4 +7,7 @@ feature:
 - shield, weapon overheat meters
 - level progression meter
 
-<img src= width=150>
+<img src=https://github.com/freeaks/shooter/blob/master/screenshots/shooter1.png?raw=true width=150>
+<img src=https://github.com/freeaks/shooter/blob/master/screenshots/shooter2.png?raw=true width=150>
+<img src=https://github.com/freeaks/shooter/blob/master/screenshots/shooter3.png?raw=true width=150>
+<img src=https://github.com/freeaks/shooter/blob/master/screenshots/shooter4.png?raw=true width=150>
