@@ -3,7 +3,7 @@ basic vertical shooter for android.
 its status is: techdemo, abandonned.   
 
 feature:
-- colisions
+- collisions
 - multiscrolling
 - shield, weapon overheat meters
 - level progression meter
