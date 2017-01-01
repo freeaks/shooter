@@ -1,5 +1,6 @@
 # shooter
-basic unfinished vertical shooter for android.   
+basic vertical shooter for android.   
+its status is: techdemo, abandonned.   
 
 feature:
 - colisions
